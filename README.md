@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=c6b6B9oN4Vg
 <br>
 
 **NOTE :** 
-* Change only the files which are relevant to the issue.
+* Change or add only the files which are relevant to the issue.
 * Don't create spam pull requests.
 
 **CONTRIBUTION GUIDELINES :**
