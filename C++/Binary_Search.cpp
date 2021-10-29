@@ -19,13 +19,13 @@ int BinarySearch(int arr[], int size, int element)
             return mid;
         }
 
-        //Igonring left half if element is greater
+        //Ignoring left half if element is greater
         if (arr[mid] < element)
         {
             low = mid + 1;
         }
 
-        //Igonring right half if element is smaller
+        //Ignoring right half if element is smaller
         else
         {
             high = mid - 1;
